@@ -1,14 +1,17 @@
-import Habitform from "./assets/components/forms/habitForm"
+
+import Footer from "./assets/layout/footer"
+import Header from "./assets/layout/header"
+import Main from "./assets/layout/main"
 
 
 function App() {
- 
-
-  return (
-    <>
-     <Habitform/>
-    </>
-  )
+	return (
+		<>
+			<Header/>
+			<Main/>
+			<Footer/>
+		</>
+	)
 }
 
 export default App
