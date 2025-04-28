@@ -1,3 +1,4 @@
+import Habitform from "./assets/styles/scss/components/habitForm"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-     
+     <Habitform/>
     </>
   )
 }
