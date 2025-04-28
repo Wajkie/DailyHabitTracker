@@ -1,4 +1,4 @@
-import Habitform from "./assets/styles/scss/components/habitForm"
+import Habitform from "./assets/components/forms/habitForm"
 
 
 function App() {
